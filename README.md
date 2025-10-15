@@ -28,5 +28,4 @@ Visualization
 The simulation includes:
 - Grid-based display showing animal positions
 - Population tracking over time
-
-Matplotlib visualization of population cycles
+- Matplotlib visualization of population cycles
